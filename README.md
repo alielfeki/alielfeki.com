@@ -33,8 +33,3 @@ I'm also hoping to create a more abstract version that can handle nth values for
 **Thank you for visiting this website,**     
 
 ***Ali Elfeki*** 
-
-
-
-------
-contact me at echoingfuture@gmail.com
